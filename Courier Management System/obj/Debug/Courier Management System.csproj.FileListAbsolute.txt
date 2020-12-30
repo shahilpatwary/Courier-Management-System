@@ -1,0 +1,4 @@
+F:\C#\Courier-Management-System\Courier Management System\obj\Debug\Courier Management System.csprojAssemblyReference.cache
+F:\C#\Courier-Management-System\Courier Management System\obj\Debug\Courier_Management_System.Properties.Resources.resources
+F:\C#\Courier-Management-System\Courier Management System\obj\Debug\Courier Management System.csproj.GenerateResource.cache
+F:\C#\Courier-Management-System\Courier Management System\obj\Debug\Courier Management System.csproj.CoreCompileInputs.cache
