@@ -8,12 +8,12 @@ using System.Threading.Tasks;
 
 namespace Courier_Management_System.Data_Access_Layer
 {
-    class Dataaccess : IDisposable
+    class DataAccess : IDisposable
     {
         SqlConnection connection;
         SqlCommand command;
 
-        public Dataaccess()
+        public DataAccess()
         {
             this.connection = new SqlConnection(ConfigurationManager.ConnectionStrings["CourierManagementSystem"].ConnectionString);
             this.connection.Open();
