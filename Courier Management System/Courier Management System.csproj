@@ -49,7 +49,9 @@
   <ItemGroup>
     <Compile Include="Data Access Layer\DataAccess.cs" />
     <Compile Include="Data Access Layer\EmployeeDataAccess.cs" />
+    <Compile Include="Data Access Layer\ProductDataAccess.cs" />
     <Compile Include="Entities\Employee.cs" />
+    <Compile Include="Entities\Product.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">

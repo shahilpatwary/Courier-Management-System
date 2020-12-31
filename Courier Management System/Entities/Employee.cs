@@ -19,6 +19,6 @@ namespace Courier_Management_System.Entities
         public int Branch_id { get; set; }
         public string Blood_Group { get; set; }
         public string Qualification { get; set; }
-        public int User_id { get; set; }
+        public int Id { get; set; }
     }
 }
